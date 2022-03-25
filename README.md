@@ -19,3 +19,10 @@ The goal is to classify the state of the ionosphere following sonar measurements
 |   KNN   |   98.52   |
 |   SVM   |   96.3   |
 |   Random Forrest   |   97.78  |
+## Mushroom classification
+### Brief description of the project
+The aim of this project is to classify mushrooms according to several characteristics into edible and poisonous.
+### Achieved performances
+|   Algorithm   |   Accuracy (%)|  F1 score (%) |
+|---      |:-:        |:-:        |
+|   Random Forest   |   100   |   100   |
